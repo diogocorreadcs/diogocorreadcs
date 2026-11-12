@@ -25,6 +25,7 @@ Olá! Sou o **Diogo**, um desenvolvedor de software focado em criar soluções e
 ### Tech Stack
 
 <p align="center">
+  <!-- Linguagens -->
   <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -32,6 +33,7 @@ Olá! Sou o **Diogo**, um desenvolvedor de software focado em criar soluções e
   
   <br>
 
+  <!-- Web & Frameworks -->
   <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -45,6 +47,16 @@ Olá! Sou o **Diogo**, um desenvolvedor de software focado em criar soluções e
   <img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Maven-181717?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### Ferramentas & Ambiente
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-181717?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-181717?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
