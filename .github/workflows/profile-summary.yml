@@ -13,7 +13,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update year in README
+        run: |
+          CURRENT_YEAR=$(date +%Y)
+          sed -i "s/© [0-9]\{4\} Diogo Corrêa/© $CURRENT_YEAR Diogo Corrêa/g" README.md
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update copyright year and profile cards"
+          file_pattern: "README.md profile-summary-card-output/*"
