@@ -76,6 +76,8 @@ Olá! Sou o **Diogo**, um desenvolvedor de software focado em criar soluções e
 
 ---
 
+<br>
+
 <p align="center">
-  <sub>© 2026 Diogo Corrêa</sub>
+  <img src="https://img.shields.io/badge/%C2%A9%202026%20Diogo%20Corr%C3%AAa-00000000?style=flat&labelColor=00000000" alt="Copyright" height="14" />
 </p>
