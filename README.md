@@ -66,14 +66,17 @@ Olá! Sou o **Diogo**, um desenvolvedor de software focado em criar soluções e
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" width="100%" />
+      <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=diogocorreadcs&hide_border=true&background=00000000&ring=737373&fire=A3A3A3&currStreakNum=737373&sideNums=737373&currStreakLabel=737373&sideLabels=737373&dates=737373" alt="GitHub Streak" width="100%" />
+      <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" width="100%" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=diogocorreadcs&hide_border=true&background=00000000&ring=737373&fire=A3A3A3&currStreakNum=737373&sideNums=737373&currStreakLabel=737373&sideLabels=737373&dates=737373" alt="GitHub Streak" width="100%" />
+    </td>
+    <td align="center" width="50%">
       <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="100%" />
     </td>
   </tr>
