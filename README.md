@@ -80,6 +80,8 @@ Olá! Sou o **Diogo**, um desenvolvedor de software focado em criar soluções e
 
 <br>
 
+<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAmerica%2FSao_Paulo&query=%24.datetime&prefix=%C2%A9%20&label=&color=00000000&labelColor=00000000&style=flat" alt="Copyright" height="14" />
+  <img src="https://img.shields.io/badge/%C2%A9%202026%20Diogo%20Corr%C3%AAa-181717?style=flat&color=181717" alt="Copyright"/>
 </p>
