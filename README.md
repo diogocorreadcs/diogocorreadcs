@@ -46,7 +46,7 @@ Olá! Sou o **Diogo**, um desenvolvedor de software focado em criar soluções e
   <!-- Ferramentas & Banco de Dados -->
   <img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Maven-181717?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.id/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -73,3 +73,9 @@ Olá! Sou o **Diogo**, um desenvolvedor de software focado em criar soluções e
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <sub>© 2026 Diogo Corrêa. Minimalist & Modular.</sub>
+</p>
