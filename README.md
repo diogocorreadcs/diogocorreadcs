@@ -63,12 +63,12 @@ Olá! Sou o **Diogo**, um desenvolvedor de software focado em criar soluções e
 
 ### Estatísticas
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" width="100%" />
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=diogocorreadcs&hide_border=true&background=00000000&ring=737373&fire=A3A3A3&currStreakNum=737373&sideNums=737373&currStreakLabel=737373&sideLabels=737373&dates=737373" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
@@ -78,8 +78,6 @@ Olá! Sou o **Diogo**, um desenvolvedor de software focado em criar soluções e
     </td>
   </tr>
 </table>
-
----
 
 <br>
 
